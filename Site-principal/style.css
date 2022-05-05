@@ -54,3 +54,21 @@ body{
     top: 80px;
 }
 
+.news{
+    position: absolute;
+    align-items: center;
+    padding-left: 350px;
+    top:450px;
+}
+
+.textopri{
+    position: absolute;
+    right: 150px;
+}
+
+.rodape{
+    position: absolute;
+    top: 700px;
+    left: 450px;
+    
+}
