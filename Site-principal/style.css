@@ -16,7 +16,7 @@ body{
     position: absolute;
     text-align: center;
     padding-top: 250px;
-    padding-left: 280px;
+    padding-left: 340px;
      
 }
 
@@ -50,7 +50,7 @@ body{
 
 .logo-bot{
     position: absolute;
-    padding-left: 800px;
+    padding-left: 850px;
     top: 80px;
 }
 
@@ -66,9 +66,13 @@ body{
     right: 150px;
 }
 
+
 .rodape{
     position: absolute;
     top: 700px;
-    left: 450px;
+    left: 490px;
+    padding:10px;
+    margin: 10px;
+    border-top: 0.4px solid black;
     
 }
